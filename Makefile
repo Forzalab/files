@@ -35,9 +35,7 @@ CCFLAGS := -Wall -Wextra -Wfatal-errors -fcompare-debug-second \
            -fsanitize=undefined -fsanitize=address \
            -fdiagnostics-color=always
 
-LINTFLAGS := --language=c++ --enable=all --suppress=missing
-IncludeSystem --suppress=*:*libs/include/* --suppress=unuse
-dStructMember
+LINTFLAGS := --language=c++ --enable=all --suppress=missingIncludeSystem --suppress=*:*libs/include/* --suppress=unusedStructMember
 
 CPP_SRCS    := $(wildcard $(WORKDIR)/*.cpp)
 CC_SRCS     := $(wildcard $(WORKDIR)/*.cc)
