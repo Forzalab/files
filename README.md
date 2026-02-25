@@ -1,40 +1,3 @@
-# Test JSON Files for particle-raincheck
-
-## Coordinate System (from codebase analysis)
-
-```
-Origin (0,0) = TOP-LEFT corner
-Row = Y axis (vertical) → increases DOWNWARD
-Col = X axis (horizontal) → increases RIGHTWARD
-
-     col 0   col 5   col 10  ...  col N
-row 0  ┌───────────────────────────────┐
-       │                               │
-row 5  │        (row=5, col=10)        │
-       │              ↓                │
-row 10 │     gravity pulls DOWN        │
-       │     (increasing row)          │
-row N  └───────────────────────────────┘
-```
-
-- **Map is flattened**: `index = row * cols + col`
-- **atMap()** treats border cells (row 0, row max, col 0, col max) as OOB via exclusive range
-- **isInBounds()** requires `0 < row < rows` and `0 < col < cols` (exclusive)
-- **Gravity** = increasing row (moving downward on screen)
-- **"Up"** = decreasing row
-
-## Type Enum Reference
-
-| Value | Type      | Color (R,G,B)   | Default Stationary | Default Lifetime |
-|-------|-----------|------------------|--------------------|------------------|
-| 0     | none      | —                | —                  | —                |
-| 1     | air       | (255,255,255)    | false              | 1000             |
-| 2     | dust      | (120,120,120)    | false              | 20000            |
-| 3     | fire      | (227,68,32)      | true               | 1500             |
-| 4     | water     | (70,155,235)     | false              | -1 (infinite)    |
-| 5     | earth     | (97,29,25)       | true               | INT32_MAX        |
-| 6     | dirt      | (138,52,26)      | false              | INT32_MAX        |
-| 7     | lightning | (255,255,0)      | false              | 1                |
 
 ## Test Files → REQUIREMENTS Mapping
 
@@ -71,7 +34,7 @@ row N  └───────────────────────�
 
 | Test File | Requirement Tested |
 |---|---|
-| `test_lifetime_decrement.JSON` | "Physics will decrement it each frame by 1" + "lifetime of exactly 0, delete it" — particles with lifetimes 1, 3, 5 + one earth with -1 |
+|`test_lifetime_decrement.JSON`| "Physics will decrement it each frame by 1" + "lifetime of exactly 0, delete it" — particles with lifetimes 1, 3, 5 + one earth with -1 |
 | `test_stationary_behavior.JSON` | "stationary=true means it is solid and does not move" + "Stationary can still be transformed" — stationary water & dirt + incoming lightning |
 | `test_autopause_alive_zero.JSON` | "Simulation should also automatically pause when world.alive_count is 0" — all particles have lifetime=2 |
 
