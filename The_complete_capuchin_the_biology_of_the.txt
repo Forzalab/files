@@ -1,0 +1,384 @@
+Cambridge University Press
+0521667682 - The Complete Capuchin: The Biology of the Genus Cebus - Dorothy M. Fragaszy, Elisabetta
+Visalberghi and Linda Marie Fedigan
+Frontmatter
+More information
+
+The Complete Capuchin
+Capuchin monkeys are one of the most widely distributed genera
+of primates in Central and South America. Capuchins captivate
+the imagination of scientists and the lay public alike with their
+creative and highly variable behavior, their grace and power in
+action, and their highly developed social character. In this, the
+first scholarly book devoted to the biology of the genus Cebus
+(Primates: Platyrrhine), we summarize the taxonomy, distribution, life history, ecology, anatomy, development, perception,
+cognition, motor skills, and social and sexual behavior of these
+monkeys. The book also describes how humans have viewed,
+used, and studied these monkeys from ancient times to the
+present. The authors’ explicitly organismic and inclusive treatment provides a picture in unparalleled detail of the capuchin
+over its lifetime for all those with an interest in these fascinating
+animals.
+D    M. F     is Professor of Psychology and
+the Chair of the Neuroscience and Behavior Program at the
+University of Georgia, where she teaches development, developmental psychobiology, and comparative cognition. She has
+also co-edited The Biology of Traditions with Susan Perry (2003;
+0 521 81597 5, hardback).
+E        V         is Research Director at the Istituto di Scienze e Tecnologie della Cognizione of the Consiglio
+Nazionale delle Ricerche in Rome. She studies comparative
+primate cognition and behavioral biology. Her research focuses
+on capuchin monkeys.
+L   M. F      is Professor of Anthropology and Canada
+Research Chair at the University of Calgary. She teaches primatology, physical anthropology, and gender studies. Her research
+interests include life histories of female monkeys, social relations
+between the sexes, and conservation of neotropical primates.
+
+© Cambridge University Press
+
+www.cambridge.org
+
+Cambridge University Press
+0521667682 - The Complete Capuchin: The Biology of the Genus Cebus - Dorothy M. Fragaszy, Elisabetta
+Visalberghi and Linda Marie Fedigan
+Frontmatter
+More information
+
+The Complete Capuchin
+The Biology of the Genus Cebus
+Dorothy M. Fragaszy
+Elisabetta Visalberghi
+Linda Marie Fedigan
+
+© Cambridge University Press
+
+www.cambridge.org
+
+Cambridge University Press
+0521667682 - The Complete Capuchin: The Biology of the Genus Cebus - Dorothy M. Fragaszy, Elisabetta
+Visalberghi and Linda Marie Fedigan
+Frontmatter
+More information
+
+                                                   
+The Pitt Building, Trumpington Street, Cambridge, United Kingdom
+                      
+The Edinburgh Building, Cambridge, CB2 2RU, UK
+40 West 20th Street, New York, NY 10011–4211, USA
+477 Williamstown Road, Port Melbourne, VIC 3207, Australia
+Ruiz de Alarcón 13, 28014 Madrid, Spain
+Dock House, The Waterfront, Cape Town 8001, South Africa
+http://www.cambridge.org
+
+C D. Fragaszy, E. Visalberghi and L. Fedigan 2004
+
+This book is in copyright. Subject to statutory exception and
+to the provisions of relevant collective licensing agreements,
+no reproduction of any part may take place without
+the written permission of Cambridge University Press.
+First published 2004
+Printed in the United Kingdom at the University Press, Cambridge
+Typeface Ehrhardt 9.5/12pt.
+
+System LATEX 2ε []
+
+A catalog record for this book is available from the British Library
+ISBN 0 521 66116 1 hardback
+ISBN 0 521 66768 2 paperback
+
+© Cambridge University Press
+
+www.cambridge.org
+
+Cambridge University Press
+0521667682 - The Complete Capuchin: The Biology of the Genus Cebus - Dorothy M. Fragaszy, Elisabetta
+Visalberghi and Linda Marie Fedigan
+Frontmatter
+More information
+
+For Rick, for everything – DF
+For my parents Noela and Aldo, to Liz Bates an extraordinary friend, and
+to the capuchins Cammello, Toko, Carlotta, Roberta, Gal . . . They all
+taught me how to think. – EV
+For John, helpmate and fellow naturalist – LF
+
+© Cambridge University Press
+
+www.cambridge.org
+
+Cambridge University Press
+0521667682 - The Complete Capuchin: The Biology of the Genus Cebus - Dorothy M. Fragaszy, Elisabetta
+Visalberghi and Linda Marie Fedigan
+Frontmatter
+More information
+
+Contents
+
+Preface page ix
+Acknowledgements
+
+10 Fancy manipulators. Capuchins use objects
+as tools 173
+
+xi
+
+11 Living together. Social interactions,
+relationships and social structure 202
+
+Prologue 1
+PART I
+
+CAPUCHINS IN NATURE
+
+12 Erotic artists. Sexual behavior, forms of
+courtship and mating 221
+
+1 (With Anthony Rylands) Taxonomy, distribution
+and conservation. Where and what are they and
+how did they get there? 13
+
+13 Learning together. Socially biased
+learning 244
+
+2 Behavioral ecology. How do capuchins make a
+living? 36
+
+Epilogue The (in)complete capuchin 260
+Appendices
+
+3 Community ecology. How do capuchins interact
+with their local communities and influence their
+environments? 55
+
+I Plant foods eaten by capuchins 261
+II Sites of long-term field observations of
+capuchin monkeys listed in the
+bibliography 286
+
+4 Life history and demography 72
+PART II BEHAVIORAL BIOLOGY
+
+III
+
+5 The body 83
+6 Development 106
+7 Motor skills 126
+
+Blood biochemistry, hematological
+and serum protein parameters for
+males and females (a) and juveniles and
+adults (b) 287
+
+IV Literature resources on management of
+captive capuchins 291
+
+PART III BEHAVIORAL PSYCHOLOGY
+8 Perceiving the world. Memory and
+perception 143
+
+References 293
+Index 332
+
+9 Engaging the world. Exploration and
+problem-solving 157
+
+vii
+
+© Cambridge University Press
+
+www.cambridge.org
+
+Cambridge University Press
+0521667682 - The Complete Capuchin: The Biology of the Genus Cebus - Dorothy M. Fragaszy, Elisabetta
+Visalberghi and Linda Marie Fedigan
+Frontmatter
+More information
+
+Preface
+
+Do you like jigsaw puzzles? We do. We like to look at
+the individual pieces, to appreciate the characteristics of
+each piece and the similarities and differences in contour and color among pieces; then to try different ways of
+aligning them with each other; ultimately to see emerging from our constructive efforts a coherent picture as
+we succeed in putting the puzzle together. This has been
+our approach in this book about capuchin monkeys. We
+have the opportunity to do this now because information about capuchins has accumulated rapidly in the past
+20 years.
+We believe that we are in a transition period, where
+capuchins are shifting from a little-known to a wellknown genus, but the knowledge at present is scattered
+and therefore not readily accessible outside the small
+community of “capuchinologists.” For many years, in
+fact, we have been hampered in our efforts to educate
+others about the genus with which we three work the
+most at present because there is no general reference
+volume about it. So, this book is for the many scientists
+and personnel working where these monkeys occur naturally, and for our students, who so often have asked
+“Is there a book about capuchins that would help me to
+learn something about them?”. This innocent question
+has always been disconcerting for us. We became tired
+of replying, “Well, not really – but here is a collection of
+articles touching on some features of their biology that
+might interest you,” and handing them a sheaf of papers
+the thickness of a substantial log. We finally responded
+to this pebble in our shoes – it seems to have grown to
+the size of a boulder – by taking on the task of writing
+the reference volume ourselves.
+Our usual strategy in beginning to solve a puzzle
+is to begin with the easier parts, usually the boundaries or particularly distinctive sections. Once at least
+some of these are relatively defined, we begin to piece in
+more ambiguous elements. We have followed this general strategy in our exploration of the capuchin puzzle. We realize that we have described a puzzle that
+
+we can only partially complete at this time (despite the
+hubris of our title). There are still many pieces missing, and one can rearrange the pieces that we have provided to produce somewhat different pictures than we
+have. There are omissions, of course, most notably of
+physiological and disease-related topics, that reflect our
+limitations. Nevertheless, we hope that this volume will
+prove useful to students looking for a general picture
+of capuchins in historical, geographic, physical, social,
+ecological, experiential, and phylogenetic context. Our
+intent was to write a book that would be accessible to the
+person interested in learning about capuchin monkeys
+but who is not necessarily a specialist trained in biology, psychology, or anthropology. We also wanted the
+book to be useful to those with a professional interest in
+these monkeys – that is, our colleagues in research and
+education, those responsible for caring for capuchins
+in captivity, those who work to conserve and manage
+the monkeys and the forests where they occur in nature,
+and those who answer the public’s questions about them.
+Thus we have covered as broad a spectrum of subjects
+as we felt knowledgeable to write about. We have, to the
+best of our ability, presented capuchin monkeys from
+an organismic perspective – that is, as whole individuals
+participating in groups, and groups in ecosystems, and as
+individuals with evolutionary, developmental, physical,
+and experiential facets to their existence. This perspective is the source of our fascination with these monkeys, and we hope to convey this fascination to our
+readers.
+Unfortunately, deciding to write a book occurs on a
+vastly different time scale than accomplishing that task.
+In our case, we wanted the book to be a product of our
+joint efforts, not simply a collection of pieces written
+by three people. We wrote most of the book, literally,
+together, over the course of three furiously productive
+periods. We had the good fortune to spend these periods
+at a serene spot facing the sandy shores of Peconic Bay, on
+Long Island, in New York. The surroundings nurtured
+ix
+
+© Cambridge University Press
+
+www.cambridge.org
+
+Cambridge University Press
+0521667682 - The Complete Capuchin: The Biology of the Genus Cebus - Dorothy M. Fragaszy, Elisabetta
+Visalberghi and Linda Marie Fedigan
+Frontmatter
+More information
+
+x
+
+Preface
+
+all manner of creative thought; long walks along shore
+and through wood allowed us to set these thoughts in
+order. For this good fortune we thank Russ and Carolyn
+McCall, who generously lent us the Red House, and
+the whole McCall family for their hospitality. We also
+visited with Stephen Nash, whose art work graces this
+
+© Cambridge University Press
+
+book, and during these visits we were inspired by his
+incomparable collection of images of primates. We also
+thank Anthony Rylands for his invaluable collaboration
+on Chapter 1 (taxonomy), a subject which he knows
+deeply and we do not, and which we thought critical to
+cover thoroughly in this book.
+
+www.cambridge.org
+
+Cambridge University Press
+0521667682 - The Complete Capuchin: The Biology of the Genus Cebus - Dorothy M. Fragaszy, Elisabetta
+Visalberghi and Linda Marie Fedigan
+Frontmatter
+More information
+
+Acknowledgements
+
+A project of this magnitude reflects the collaborative
+efforts of many people, and this particular project is
+no exception. We have many individuals to thank for
+sharing the burdens of preparing this book. For providing photographs, we thank Jim Anderson, Sue Boinski,
+Brian Grafton, Kathy Jack, Charles Janson, Katie
+McKinnon, Russ Mittermeier, Briseida Resende,
+Giovanna Spinozzi and Peter Strick. For providing images of published figures, we thank Brendan
+McGonigle, Margaret Chalmers and Patrizia Potı̀. For
+the cover photo, we thank Margherita Stammati. For
+sharing unpublished data, including dissertations, we
+thank Mary Baker, Dave Bergeson, Sue Boinski, Sarah
+Brosnan, John Buckley, Sarah Cummins-Sebree, Mario
+Di Bitetti, Carolyn Hall, Patricia Izar, Katherine Jack,
+Katrina Landau, Katie MacKinnon, Lynne Miller,
+Betsy Mitchell, Carlos Nagle, Robert O’Malley, Melissa
+Panger, Susan Perry, Lisa Rose and Kym Snarr. For
+informing us about the collection of radiographs of
+capuchins followed longitudinally through development, we thank John Fleagle. For helping us to locate
+old prints, we thank Gustl Anzenberger. For commenting in conversation on various aspects of the work, we
+thank Gustl Anzenberger, Sue Boinski, Mario Di Bitetti,
+Andrea Hohman, Charles Janson, Susan Perry, John
+Robinson and Lisa Rose.
+For reading and commenting on drafts of chapters, we thank Leah Adams-Curtis, John Addicott,
+Elsa Addessi, Jim Anderson, Pamela Asquith, Sue
+Boinski, Karly Branch, Sarah Carnegie, Monica Carosi,
+Colin Chapman, Marianne Christel, Sarah CumminsSebree, Thomas Defler, Maud Drapier, Erin Ehmke,
+Cam Fielding, Joan Fragaszy, Spartaco Gippoliti,
+Katherine Jack, Larry Jacobsen, Gram Jones (who
+merits a special thanks from DF for much help
+with the finer points of comparative morphology),
+Katie Leighty, Jessica Lynch, Katie MacKinnon, Carlotta Maggio, Rob O’Malley, Lauren McCall, Floriano
+Papi, Susan Perry, Patrizia Potı̀, Carrie Rosengart,
+Anthony Rylands, Giovanna Spinozzi, Karen Strier,
+Roger Thomas, Ari Vreemzaal, Anne Weaver and Toni
+Ziegler.
+
+For helping with references, tables, figures, appendices and assisting with other editorial work, we thank
+Elsa Addessi, Gustl Anzenberger, Karly Branch, Sarah
+Carnegie, Sarah Cummins-Sebree, Amy Fuller, Alison
+Grand, Erica Hoy, Katie Leighty, Stefano Marta,
+Carlotta Maggio, John McCall, Deborah Nicol, Andy
+de Paoli, Carrie Rosengart, Louise Seagraves, Michelle
+Tremblay and Amy Venable.
+The distribution maps in Chapter 1 were kindly
+drawn by Kimberly Meek, Publications Department,
+and the base maps were prepared by Mark Denil of the
+Conservation Mapping Program in the GIS and Mapping Laboratory, at the Center for Applied Biodiversity
+Science, Conservation International, Washington, DC.
+We would like to acknowledge the use of the Primate
+Information Network (PIN), an information resource
+maintained jointly by the Washington and Wisconsin
+Regional Primate Research Centers and the Libraries
+of the University of Wisconsin, Madison, Wisconsin,
+USA. In particular, we made extensive use of the Primate Lit database maintained by the PIN to prepare our
+bibliography and to search the literature.
+Many of the drawings in this book, including the
+color plates, were prepared by Stephen Nash, to whom
+we offer a very special, deep thanks for generous help
+and enduring enthusiasm.
+DMF acknowledges financial support for research
+with capuchins from the National Science Foundation
+and the National Institutes of Health, USA, and the
+LSB Leakey Foundation. EV acknowledges financial
+support from the Consiglio Nazionale delle Ricerche,
+Italy. LMF acknowledges 20 years of continuous support for capuchin research from the Natural Sciences
+and Engineering Research Council of Canada (NSERC).
+She also thanks the Canada Research Chairs Program
+for financial support.
+Finally, we thank our first editor at Cambridge University Press, Tracey Sanderson, for her moral support
+and good advice throughout this long adventure. She
+never lost faith that we would finish this project. Thanks
+also to Maria Murphy, who took over Tracey’s role as
+we finished the book.
+xi
+
+© Cambridge University Press
+
+www.cambridge.org
+
+

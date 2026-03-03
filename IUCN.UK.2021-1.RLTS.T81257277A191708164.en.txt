@@ -1,0 +1,590 @@
+The IUCN Red List of Threatened Species™
+ISSN 2307-8235 (online)
+IUCN 2021: T81257277A191708164
+Scope(s): Global
+Language: English
+
+Cebus capucinus, Colombian White-throated Capuchin
+Amendment version
+Assessment by: de la Torre, S., Moscoso, P., Méndez-Carvajal, P.G., RosalesMeda, M., Palacios, E., Link, A., Lynch Alfaro, J.W. & Mittermeier, R.A.
+
+View on www.iucnredlist.org
+
+Citation: de la Torre, S., Moscoso, P., Méndez-Carvajal, P.G., Rosales-Meda, M., Palacios, E., Link, A.,
+Lynch Alfaro, J.W. & Mittermeier, R.A. 2021. Cebus capucinus (amended version of 2020
+assessment). The IUCN Red List of Threatened Species 2021: e.T81257277A191708164.
+https://dx.doi.org/10.2305/IUCN.UK.2021-1.RLTS.T81257277A191708164.en
+Copyright: © 2021 International Union for Conservation of Nature and Natural Resources
+Reproduction of this publication for educational or other non-commercial purposes is authorized without prior written
+permission from the copyright holder provided the source is fully acknowledged.
+Reproduction of this publication for resale, reposting or other commercial purposes is prohibited without prior written
+permission from the copyright holder. For further details see Terms of Use.
+The IUCN Red List of Threatened Species™ is produced and managed by the IUCN Global Species Programme, the IUCN
+Species Survival Commission (SSC) and The IUCN Red List Partnership. The IUCN Red List Partners are: Arizona State
+University; BirdLife International; Botanic Gardens Conservation International; Conservation International; NatureServe;
+Royal Botanic Gardens, Kew; Sapienza University of Rome; Texas A&M University; and Zoological Society of London.
+If you see any errors or have any questions or suggestions on what is shown in this document, please provide us with
+feedback so that we can correct or extend the information provided.
+THE IUCN RED LIST OF THREATENED SPECIES™
+
+Taxonomy
+Kingdom
+
+Phylum
+
+Class
+
+Order
+
+Family
+
+Animalia
+
+Chordata
+
+Mammalia
+
+Primates
+
+Cebidae
+
+Scientific Name: Cebus capucinus (Linnaeus, 1758)
+Synonym(s):
+• Simia capucina Linnaeus, 1758
+
+Infra-specific Taxa Assessed:
+• Cebus capucinus ssp. capucinus
+• Cebus capucinus ssp. curtus
+
+Common Name(s):
+• English:
+• French:
+• Spanish; Castilian:
+• German:
+
+Colombian White-throated Capuchin, White-faced Capuchin, White-headed
+Capuchin, White-throated Capuchin
+Sapajou capucin
+Capuchino de Cara Blanca de Colombia
+Weißschulter-Kapuzineraffe
+
+Taxonomic Notes:
+Silva Jr (2001, 2002) argued that the tufted capuchins and the untufted capuchins (sensu Hershkovitz
+1949, 1955) are so distinct in their morphology that they should be considered separate genera. Cebus
+Erxleben, 1777 is referable to the untufted group, and Sapajus Kerr, 1792 is the name available for the
+tufted capuchins.
+Defler (2004) noted that three subspecies had been recorded for Colombia: C. c. capucinus (Linnaeus,
+1758), C. c. nigripectus Elliot, 1909; and C. c. curtus Bangs, 1905, of the Pacific Island of Gorgona. They
+are not recognized as valid by Hershkovitz (1949), Hernández-Camacho and Cooper (1976), nor by
+Groves (2001, 2005).
+The assessment of C. capucinus previously included four subspecies but capucinus is now treated as
+being limited to Colombia with just two subspecies – C. c. capucinus and the Gorgona Island C. c. curtus.
+Subspecies imitator is now considered a good species (from Panama) and subspecies limitaneus is now a
+junior synonym of C. imitator. These changes are based on Molecular genetic studies by Ruiz-García et
+al. (2012) and Boubli et al. (2012) which validated C. imitator as the Central American form, restricting C.
+c. capucinus to Colombia, and eliminating limitaneus as a junior synonym of imitator.
+
+Assessment Information
+Red List Category & Criteria:
+
+Vulnerable A4cd ver 3.1
+
+Year Published:
+
+2021
+
+Date Assessed:
+
+March 2, 2020
+
+Justification:
+© The IUCN Red List of Threatened Species: Cebus capucinus – published in 2021.
+https://dx.doi.org/10.2305/IUCN.UK.2021-1.RLTS.T81257277A191708164.en
+
+1
+
+Cebus capucinus is considered Vulnerable, as a population reduction of 30% or more is suspected over
+the course of three generations. This is based on Global Forest Watch data for regions of eastern
+Panama, the Pacific coast of Colombia and northwestern Ecuador in which this species is known or
+believed to occur. The data suggest that, should forest loss continue at the same rate that has impacted
+the previous generation, up to 18% of this species’ suitable habitat is likely to be lost by the year 2074.
+Combined with continued evidence of hunting for the pet trade and in retaliation for crop-raiding,
+these threats put Cebus capucinus above the threshold for Vulnerable status.
+
+Previously Published Red List Assessments
+2020 – Vulnerable (VU)
+https://dx.doi.org/10.2305/IUCN.UK.2020-3.RLTS.T81257277A17938441.en
+
+Geographic Range
+Range Description:
+Cebus capucinus ranges from east of the Panama Canal watershed, including Chagres National Park
+(Panama Province), Portobelo National Park (Colon Province), Comarca San Blas Indigenous Reserve,
+Panama (Méndez 1970), Bayano, Maje Mountain Chain, Chucantí Natural Reserve and Darien National
+Park (Méndez-Carvajal 2014) through the Chocó-Darién into Colombia to NW Ecuador (south to the
+Esmeraldas and Guayllabamba Rivers) (Hernández-Camacho and Cooper 1976; Rodríguez-Luna et al.
+1996; Reid 1997; Marineros and Gallegos 1998, Mittermeier et al. 2013).
+Global Forest Watch data for regions of eastern Panama, the Pacific coast of Colombia and northwestern
+Ecuador in which this species is known or believed to occur, suggest that, should forest loss continue at
+the same rate that has impacted the previous generation (2009-2018), up to 18% of this species’
+suitable habitat is likely to be lost by the year 2074 (Global Forest Watch 2020).
+Two subspecies are recognized:
+Cebus capucinus capucinus
+In Colombia, the white-throated capuchin occurs south from the Panamanian border along the Pacific
+Coast, west of the Andes (up to 1,800–2,000 m asl) into northwestern Ecuador. It is restricted to the
+west bank of the upper Río Cauca (between the Cordillera Occidental and Cordillera Central) and
+extends north across the Río Sinu into Cordoba, Sucre and Atlantico to the town of Barranquilla on the
+northern coast of Colombia. It also occurs in NW Ecuador (Hernández-Camacho and Cooper 1976;
+Defler 2004, Tirira 2007). In Central America, C. c. capucinus extends west as far the Panama Canal
+(Baldwin and Baldwin 1977; Hall 1981).
+Cebus capucinus curtus
+Gorgona Island, Colombia, possibly introduced in the 16th or 17th centuries.
+
+Country Occurrence:
+Native, Extant (resident): Colombia (Colombia (mainland)); Ecuador (Ecuador (mainland)); Panama
+
+© The IUCN Red List of Threatened Species: Cebus capucinus – published in 2021.
+https://dx.doi.org/10.2305/IUCN.UK.2021-1.RLTS.T81257277A191708164.en
+
+2
+
+Distribution Map
+
+© The IUCN Red List of Threatened Species: Cebus capucinus – published in 2021.
+https://dx.doi.org/10.2305/IUCN.UK.2021-1.RLTS.T81257277A191708164.en
+
+3
+
+Population
+No information on population densities are available for this species. A population reduction of 30% or
+more is inferred over the course of three generations due to habitat degradation and the pet trade.
+Current Population Trend: Decreasing
+
+Habitat and Ecology (see Appendix for additional information)
+In Panama, the species occurs in dry deciduous forests on the Pacific coast (rainfall less than 1,75 mm),
+in mangroves and second growth (Freese and Oppenheimer 1981, Reid 1997). In Colombia, C. capucinus
+occurs in primary and advanced secondary forest remnants, degraded forests and forests with large
+concentrations of palms, especially Scheelea magdalenica at altitudes of up to 2,000 m asl (Defler 2004).
+In Ecuador, it occurs in humid tropical and subtropical forests from sea level to 1,800 m asl (Tirira 2007).
+Capuchins are frugivores-insectivores, including a wide variety of fruits, seeds, arthropods, frogs,
+nestlings and even small mammals in their diet, supplemented by stems, flowers and leaves. They are
+extractive, manipulative foragers. In a cloud forest in Ecuador (Los Cedros Protected Forest) the species
+has been reported to be a generalist, inhabiting all types of forest, including grassland with Cecropia
+trees (Gavilanes-Endara 2007, Estévez-Noboa 2009). It uses mainly the canopy and mid-story level, in
+trees between 15 and 24 m height (Gavilanes-Endara 2007). Males disperse. Both sexes take up linear
+hierarchies, the top ranking male being dominant to the top ranking female. Multi-male groups range in
+size from 5-30 individuals. In Chiriqui, Panama, Baldwin and Baldwin (1977) found C. capucinus
+occupying small forest patches of 0.2 to 40 ha in small groups of 2-5 individuals, whereas groups in
+larger forests reached sizes of 20 or more individuals. The home range size for the species averages
+around 50 to 80 ha (Defler 2004).
+
+Systems: Terrestrial
+
+Use and Trade
+The species is hunted as a crop pest and for the pet market.
+
+Threats (see Appendix for additional information)
+Although habitat loss is certainly a major threat, the species is also hunted in several areas as a crop
+pest and for the pet market. In Panama, local people hunt them to prevent crop raiding, eliminating
+several groups near to protected areas (Méndez-Carvajal pers. obs.). They are sometimes kept as pets.
+Cebus capucinus curtus occurs only on Gorgona Island, which is a protected area (Parque Nacional
+Gorgona). However, as this is the only location in which this subspecies is found (Gorgona Island has an
+area of 15 km²), it remains very susceptible to many natural or anthropogenic threats.
+
+Conservation Actions (see Appendix for additional information)
+This species is listed on CITES Appendix II. It is present in the following protected areas:
+Cebus capucinus capucinus
+• PanamaPortobelo National Park (34,848 ha) (Matamoros and Seal 2001)
+
+© The IUCN Red List of Threatened Species: Cebus capucinus – published in 2021.
+https://dx.doi.org/10.2305/IUCN.UK.2021-1.RLTS.T81257277A191708164.en
+
+4
+
+• Chagres National Park (129,000 ha) (Matamoros and Seal 2001)
+• Chucanti Nature Reserve (Méndez-Carvajal 2012)
+• Darién National Park (555,000 ha) (Matamoros and Seal 2001)
+• EcuadorCotacachi-Cayapas Ecological Reserve (Tirira 2007)
+• Cayapas Mataje Ecological Reserve (Tirira 2007)
+• Los Cedros Protected Forest (Tirira 2007)
+• Río Canandé Reserve (Moscoso pers. obs)
+• El Pambilar Wildlife Refuge (Tacuri et al. 2013)
+Cebus capucinus curtus
+• ColombiaIsla Gorgona National Natural Park (1,568 ha)
+
+Credits
+Assessor(s):
+
+de la Torre, S., Moscoso, P., Méndez-Carvajal, P.G., Rosales-Meda, M.,
+Palacios, E., Link, A., Lynch Alfaro, J.W. & Mittermeier, R.A.
+
+Reviewer(s):
+
+Cotton, A., Molur, S., Schwitzer, C. & Reuter, K.E.
+
+Facilitator(s) and
+Compiler(s):
+
+Angelico, M. & Konstant, W.R.
+
+Authority/Authorities: IUCN SSC Primate Specialist Group
+
+© The IUCN Red List of Threatened Species: Cebus capucinus – published in 2021.
+https://dx.doi.org/10.2305/IUCN.UK.2021-1.RLTS.T81257277A191708164.en
+
+5
+
+Bibliography
+Allen, J. A. 1908. Mammals from Nicaragua. Bulletin of the American Museum of Natural History 24:
+647-670.
+Allen, J. A. 1910. Additional mammals from Nicaragua. Bulletin of the American Museum of Natural
+History 28: 87-115.
+Baldwin, J. D. and Baldwin, J. I. 1976. Primate populations in Chiriquí, Panama. In: R. W. Thorington, Jr.
+and P. G. Heltne (eds), Neotropical Primates: Field Studies and Conservation, pp. 20-31. National
+Academy of Sciences, Washington, DC.
+Baldwin, J. D. and Baldwin, J. I. 1977. Observations on Cebus capucinus in southwestern Panama.
+Primates 18: 937-941.
+Boubli, J.P., Rylands, A.B., Farias, I., Alfaro, M. and Lynch Alfaro, J. 2012. Cebus phylogenetic
+relationships: a preliminary reassessment of the diversity of the untufted capuchin monkeys. American
+Journal of Primatology 74(4): 381-393.
+Chapman, C. A., Chapman, L. and Glander, K. E. 1989. Primate populations in northwestern Costa Rica:
+potential for recovery. Primate Conservation 10: 37-44.
+Crockett, C. M., Brooks, R. D., Crockett Meacham, R., Crockett Meacham, S. and Mills, M. 1997. Recent
+observations of Nicaraguan primates and a preliminary conservation assessment. Neotropical Primates
+5(3): 71-75.
+Dahl, J. F. 1984. Primate survey in proposed reserve area in Belize. IUCN/SSC Primate Specialist Group
+Newsletter.
+Dahl, J. F. 1987. Conservation of primates in Belize, Central America. Primate Conservation 8: 119-121.
+Defler, T. R. 2004. Primates of Colombia. Conservation International, Washington, DC, Usa.
+Estévez-Noboa, M. 2009. Estudio poblacional y uso de hábitat de Alouatta palliata, Ateles fusciceps y
+Cebus capucinus en el Bosque Protector Los Cedros, provincia de Imbabura. Universidad Central del
+Ecuador.
+Fedigan, L. M. and Jack, K. 2001. Neotropical primates in a regenerating Costa Rican dry forest: a
+comparison of howler and capuchin population patterns.
+Fedigan, L. M., Rose, L. M. and Morera, R. A. 1996. See how they grow: Tracking capuchin monkeys
+(Cebus capucinus) populations in a regenerating Costa Rican dry forest. In: M. A. Norconk, A. L.
+Ronseberger and P. A. Garber (eds), Adaptive rediations of Neotropical Primates, pp. 289-307. Plenum
+Press, New York, USA.
+Fragaszy, D. M., Visalberghi, E. and Fedigan, L. 2004. The Complete Capuchin: The Biology of the Genus
+Cebus. Cambridge University Press, Cambridge, UK.
+Freese, C. H. and Oppenheimer, J. R. 1981. The capuchin monkeys, Cebus. In: A. F. Coimbra-Filho and R.
+A. Mittermeier (eds), The Ecology and Behavior of Neotropical Primates, Vol. 1., pp. 331-390. Academia
+Brasileira de Ciências, Rio de Janeiro, Brazil.
+Gavilánez-Endara, M. 2006. Demografía, actividad y preferencia de hábitat de tres especies de primates
+(Alouatta palliata, Ateles fusciceps y Cebus capucinus) en un bosque nublado del noroccidente
+ecuatoriano. Universidad Catolica del Ecuador.
+
+© The IUCN Red List of Threatened Species: Cebus capucinus – published in 2021.
+https://dx.doi.org/10.2305/IUCN.UK.2021-1.RLTS.T81257277A191708164.en
+
+6
+
+Global Forest Watch. 2020. Interactive Forest Change Mapping Tool. Available at:
+http://www.globalforestwatch.org/.
+Groves C.P. 2001. Primate Taxonomy. Smithsonian Institution Press, Washington, DC, USA.
+Groves, C.P. 2005. Order Primates. In: D.E. Wilson and D.M. Reeder (eds), Mammal Species of the World,
+pp. 111-184. The Johns Hopkins University Press, Baltimore, Maryland, USA.
+Hall, E.R. 1981. The Mammals of North America. John Wiley and Sons, New York, USA.
+Haruna A. 2010. Measuring protected areas' impact on deforestation in Panama. MS, Duke University.
+http://dukespace.lib.duke.edu/dspace/bitstream/handle/10161/2880/mpthesis_akikoharuna_101210.
+pdf?sequence=1 (accessed 03/03/2016).
+Hernández-Camacho, J. and Cooper, R. W. 1976. The nonhuman primates of Colombia. In: R. W.
+Thorington, Jr. and P. G. Heltne (eds), Neotropical Primates: Field Studies and Conservation, pp. 35-69.
+National Academy of Sciences, Washington, DC, USA.
+Hershkovitz, P. 1949. Mammals of northern Colombia. Preliminary report No. 4: Monkeys (Primates)
+with taxonomic revisions of some forms. Proceedings of the United States National Museum 98:
+323–427.
+Hershkovitz, P. 1955. Notes on the American monkeys of the genus Cebus. Journal of Mammalogy 36:
+449–452.
+Hollister, N. 1914. Four new mammals from tropical America. Proceedings of the Biological Society of
+Washington 27: 103-106.
+Hubrecht, R. C. 1986. Operation Raleigh primate census in the Maya Mountains, Belize. Primate
+Conservation 7: 15-17.
+IUCN. 2020. The IUCN Red List of Threatened Species. Version 2020-3. Available at: www.iucnredlist.org.
+(Accessed: 10 December 2020).
+IUCN. 2021. The IUCN Red List of Threatened Species. Version 2021-1. Available at: www.iucnredlist.org.
+(Accessed: 25 March 2021).
+López S, Sierra R, Tirado M. 2010. Tropical deforestation in the Ecuadorian Chocó: logging practices and
+socio spatial relationships. The Geographical Bulletin 51: 3-22.
+Lynch Alfaro, J.W., Silva, J.S. and Rylands, A.B. 2012. How different are robust and gracile Capuchin
+Monkeys? An argument for the use of Sapajus and Cebus. American Journal of Primatology 74(4):
+273–286.
+Marineros, L. and Gallegos, F. M. 1998. Guía de Campo de los Mamíferos de Honduras. Instituto
+Nacional de Ambiente y Desarrollo, Tegucigalpa, Honduras.
+Matamoros, Y. and Seal, U. S. 2001. Informe Final. Taller para la Conservación Asesoramiento y Manejo
+Planificado para los Primates Mesoamericanos, Parque Zoológico Simón Bolívar, San José, Costa Rica, 2325 Junio 1997. IUCN/SSCConservation Breeding Specialist Group (CBSG), Apple Valley, Minnesota, USA.
+McCarthy, T. J. 1982. Chironectes, Cyclopes, Cabassous and probably Cebus in southern Belize.
+Mammalia 46: 397-400.
+Méndez-Carvajal, P.G. 2012. Preliminary Primate Survey at the Chucanti Nature Reserve, Darien
+Province. Mesoamericana 16(3): 22-29.
+
+© The IUCN Red List of Threatened Species: Cebus capucinus – published in 2021.
+https://dx.doi.org/10.2305/IUCN.UK.2021-1.RLTS.T81257277A191708164.en
+
+7
+
+Méndez-Carvajal, P.G. 2014. The Orion Camera System, a new method for deploying camera traps in tree
+canopy to study arboreal primates and other mammals: a case study in Panama. Mesoaricana 18(1): 923.
+Méndez-Carvajal, P., Ruiz-Bernard, I., González, Y., Sánchez, K., Franco, V., Silva, S., and De León, G. 2013.
+Strategies for the Conservation of Two Critically Endangered, Endemic Primates in Panama. Primate
+Conservation 2013(27): 13-21.
+Mittermeier, R.A., Rylands, A.B. and Wilson D.E. 2013. Handbook of the Mammals of the World: Volume
+3 Primates. Lynx Edicions, Barcelona.
+Pacifici, M., Santini, L., Di Marco, M., Baisero, D., Francucci, L., Grottolo Marasini, G., Visconti, P. and
+Rondinini, C. 2013. Generation length for mammals. Nature Conservation 5: 87–94.
+Rodríguez-Luna, E., Cortés-Ortiz, L., Mittermeier, R. A. and Rylands, A. B. 1996. Plan de Acción para los
+Primates Mesoamericanos. IUCN/SSC Primate Specialist Group, Xalapa, Veracruz, Mexico.
+Ruiz-García, M., Castillo, M.I., Ledezma, A., Leguizamon, N., Sanchez, R., Chinchilla, M. and GutierrezEspeleta, G.A. 2012. Molecular systematics and phylogeography of Cebus capucinus (Cebidae, Primates)
+in Colombia and Costa Rica by means of the mitochondrial COII gene. American Journal of Primatology
+74(4): 366-380.
+Rylands, A. B., Groves, C. P., Mittermeier, R. A., Cortés-Ortiz, L. and Hines, J. J. 2006. Taxonomy and
+distributions of Mesoamerican primates. In: A. Estrada, P. Garber, M. Pavelka and L. Luecke (eds), New
+Perspectives in the Study of Mesoamerican Primates: Distribution, Ecology, Behavior and Conservation,
+pp. 29–79. Springer, New York, USA.
+Sierra R, Stallings J. 1998. The Dynamics and Human Organization of Tropical Deforestation in Northwest
+Ecuador, 1983-1995. Human Ecology 26(1): 135-161.
+Silva Jr., J. de S. 2001. Especiação nos macacos-prego e caiararas, gênero Cebus Erxleben, 1777
+(Primates, Cebidae). Doctoral thesis, Universidade Federal do Rio de Janeiro, Rio de Janeiro.
+Silva Jr., J. de S. 2001. Especiação nos macacos-prego e caiararas, gênero Cebus Erxleben, 1777
+(Primates, Cebidae). Doctoral Thesis, Universidade Federal do Rio de Janeiro.
+Silva Jr., J. de S. 2002. Sistemática dos macacos –prego e caiararas, gênero Cebus Erxleben, 1777
+(Primates, Cebidae). Livro de Resumos, X Congresso Brasieliero de Primatologia: Amazônia – A Última
+Fronteira: 35. Bélém, Brazil.
+Silva Jr., J. de S. 2002. Sistemática dos macacos –prego e caiararas, gênero Cebus Erxleben, 1777
+(Primates, Cebidae). Livro de Resumos, X Congresso Brasieliero de Primatologia: Amazônia – A Última
+Fronteira: 35. Bélém, Brazil.
+Silva-López, G., Motta-Gill, J. and Sánchez-Hernández, A. I. 1995. The Primates of Guatemala:
+Distribution and Status. The Wildlife Conservation Society, New York, USA.
+Silva-López, G., Motta-Gill, J. and Sánchez-Hernández, A. I. 1998. Distribution and status of the primates
+of Guatemala. Primate Conservation 18: 30-41.
+Tacuri, V., Guananga, T,, Araguillin, E., & Zapata-Ríos, G. 2013. Mamíferos no voladores del Refugio de
+Vida Silvestre Pambilar, Chocó Biogeográfica de Ecuador. . II Congreso Ecuatoriano de Mastozoología.
+Tirira, D.G. 2011. Libro Rojo de los Mamíferos del Ecuador. Fundación Mamíferos y Conservación,
+Pontiificia Universidad Católica del Ecuador y Ministerio del Ambiente del Ecuador, Quito, Ecuador.
+
+© The IUCN Red List of Threatened Species: Cebus capucinus – published in 2021.
+https://dx.doi.org/10.2305/IUCN.UK.2021-1.RLTS.T81257277A191708164.en
+
+8
+
+Citation
+de la Torre, S., Moscoso, P., Méndez-Carvajal, P.G., Rosales-Meda, M., Palacios, E., Link, A., Lynch Alfaro,
+J.W. & Mittermeier, R.A. 2021. Cebus capucinus (amended version of 2020 assessment). The IUCN Red
+List of Threatened Species 2021: e.T81257277A191708164. https://dx.doi.org/10.2305/IUCN.UK.20211.RLTS.T81257277A191708164.en
+
+Disclaimer
+To make use of this information, please check the Terms of Use.
+
+External Resources
+For Supplementary Material, and for Images and External Links to Additional Information, please see the
+Red List website.
+
+© The IUCN Red List of Threatened Species: Cebus capucinus – published in 2021.
+https://dx.doi.org/10.2305/IUCN.UK.2021-1.RLTS.T81257277A191708164.en
+
+9
+
+Appendix
+Habitats
+(http://www.iucnredlist.org/technical-documents/classification-schemes)
+Habitat
+
+Season
+
+Suitability
+
+Major
+Importance?
+
+1. Forest -> 1.5. Forest - Subtropical/Tropical Dry
+
+-
+
+Suitable
+
+Yes
+
+1. Forest -> 1.6. Forest - Subtropical/Tropical Moist Lowland
+
+-
+
+Suitable
+
+Yes
+
+1. Forest -> 1.8. Forest - Subtropical/Tropical Swamp
+
+-
+
+Suitable
+
+Yes
+
+1. Forest -> 1.9. Forest - Subtropical/Tropical Moist Montane
+
+-
+
+Suitable
+
+Yes
+
+2. Savanna -> 2.2. Savanna - Moist
+
+-
+
+Suitable
+
+-
+
+Use and Trade
+(http://www.iucnredlist.org/technical-documents/classification-schemes)
+End Use
+
+Local
+
+National
+
+International
+
+Food - human
+
+Yes
+
+No
+
+No
+
+Pets/display animals, horticulture
+
+Yes
+
+No
+
+No
+
+Threats
+(http://www.iucnredlist.org/technical-documents/classification-schemes)
+Threat
+
+Timing
+
+Scope
+
+Severity
+
+Impact Score
+
+1. Residential & commercial development -> 1.1.
+Housing & urban areas
+
+Ongoing
+
+-
+
+-
+
+Low impact: 3
+
+Stresses:
+
+1. Ecosystem stresses -> 1.1. Ecosystem conversion
+1. Ecosystem stresses -> 1.2. Ecosystem degradation
+
+Ongoing
+
+-
+
+Stresses:
+
+2. Species Stresses -> 2.1. Species mortality
+
+Ongoing
+
+-
+
+Stresses:
+
+1. Ecosystem stresses -> 1.2. Ecosystem degradation
+
+5. Biological resource use -> 5.1. Hunting & trapping
+terrestrial animals -> 5.1.1. Intentional use (species is
+the target)
+5. Biological resource use -> 5.3. Logging & wood
+harvesting -> 5.3.5. Motivation
+Unknown/Unrecorded
+
+-
+
+-
+
+Low impact: 3
+
+Low impact: 3
+
+Conservation Actions in Place
+(http://www.iucnredlist.org/technical-documents/classification-schemes)
+
+© The IUCN Red List of Threatened Species: Cebus capucinus – published in 2021.
+https://dx.doi.org/10.2305/IUCN.UK.2021-1.RLTS.T81257277A191708164.en
+
+10
+
+Conservation Action in Place
+In-place land/water protection
+Conservation sites identified: Yes, over entire range
+In-place education
+Included in international legislation: Yes
+Subject to any international management / trade controls: Yes
+
+Conservation Actions Needed
+(http://www.iucnredlist.org/technical-documents/classification-schemes)
+Conservation Action Needed
+2. Land/water management -> 2.1. Site/area management
+
+Research Needed
+(http://www.iucnredlist.org/technical-documents/classification-schemes)
+Research Needed
+1. Research -> 1.2. Population size, distribution & trends
+1. Research -> 1.3. Life history & ecology
+1. Research -> 1.5. Threats
+3. Monitoring -> 3.1. Population trends
+
+Additional Data Fields
+Distribution
+Continuing decline in area of occupancy (AOO): Yes
+Continuing decline in extent of occurrence (EOO): Yes
+Upper elevation limit (m): 1,800
+
+Population
+Population severely fragmented: No
+
+Habitats and Ecology
+Continuing decline in area, extent and/or quality of habitat: Yes
+Generation Length (years): 18
+
+© The IUCN Red List of Threatened Species: Cebus capucinus – published in 2021.
+https://dx.doi.org/10.2305/IUCN.UK.2021-1.RLTS.T81257277A191708164.en
+
+11
+
+Amendment
+Amendment
+reason:
+
+The list of Assessor names has been corrected in this assessment.
+
+© The IUCN Red List of Threatened Species: Cebus capucinus – published in 2021.
+https://dx.doi.org/10.2305/IUCN.UK.2021-1.RLTS.T81257277A191708164.en
+
+12
+
+The IUCN Red List Partnership
+
+The IUCN Red List of Threatened Species™ is produced and managed by the IUCN Global Species
+Programme, the IUCN Species Survival Commission (SSC) and The IUCN Red List Partnership.
+The IUCN Red List Partners are: Arizona State University; BirdLife International; Botanic Gardens
+Conservation International; Conservation International; NatureServe; Royal Botanic Gardens, Kew;
+Sapienza University of Rome; Texas A&M University; and Zoological Society of London.
+
+THE IUCN RED LIST OF THREATENED SPECIES™
+
+
